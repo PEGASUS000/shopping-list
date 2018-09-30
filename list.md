@@ -6,7 +6,7 @@
 - Mangoes
 - Pineapple
 
--## Mobiles
+## Mobiles
 - Samsung
 - Moto
 - Mi
