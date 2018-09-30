@@ -1,5 +1,6 @@
 # My shopping list
 
 - Apples
-- Oranges
+- Orange
 - Grapes
+- Mango
