@@ -5,3 +5,8 @@
 - Grapes
 - Mangoes
 - Pineapple
+
+-## Mobiles
+- Samsung
+- Moto
+- Mi
